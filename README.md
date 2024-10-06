@@ -34,7 +34,7 @@ To run the notebooks in this repository, you will need:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/system-modelling.git
+   git clone https://github.com/Grandediw/system-modelling.git
    ```
 2. Open the desired `.nb` file in Mathematica.
 3. Run the notebook to simulate and analyze the system models.
